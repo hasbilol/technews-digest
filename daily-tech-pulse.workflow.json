@@ -1,0 +1,366 @@
+{
+    "name":  "Daily Tech Pulse \u0026 Industry Intelligence Digest",
+    "nodes":  [
+                  {
+                      "parameters":  {
+                                         "content":  "## Daily Tech Pulse \u0026 Industry Intelligence Digest\n\n**Flow:** Schedule (08:00) ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ RSS (HN / ArXiv / TechCrunch) ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ Merge ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ Clean \u0026 Aggregate (top 10) ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ Gemini LLM Chain ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ Parse AI Output ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ HTML Template ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├╣╬ô├╢┬ú╬ô├╢├▒╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝Γö£├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ªΓò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòùΓö£├Ñ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬╝Γö¼Γò¥╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓòóΓö£ΓûÆ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£Γòæ╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├╗├┤╬ô├╢┬ú╬ô├╢├⌐╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝╬ô├▓┬ÑΓò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£┬¬Γò¼├┤Γö£ΓûôΓö¼Γò¥╬ô├╢┬ú╬ô├╢├▒Γò¼├┤Γö£ΓòóΓö¼├║Γò¼├┤Γö£ΓûôΓö£ΓöéΓò¼├┤Γö£ΓòóΓö¼Γò¥╬ô├╢┬ú╬ô├▓├ª╬ô├▓┬╝Γö£Γöñ╬ô├╢┬ú╬ô├▓├│╬ô├╢┬╝Γö£ΓòæΓò¼├┤Γö£ΓòóΓö¼├║╬ô├╢┬╝Γö¼┬╝ SMTP Email\n\n**Setup checklist:**\n1. Credentials: Google Gemini (API key), SMTP (Gmail App Password)\n2. Set env vars `EMAIL_TO`, `FROM_EMAIL` (and optionally `TZ`) in Docker\n3. Execute manually once, then activate the workflow",
+                                         "height":  260,
+                                         "width":  520,
+                                         "color":  4
+                                     },
+                      "id":  "f1a0c2e4-1111-4a1b-9c3d-000000000001",
+                      "name":  "Sticky Note - Overview",
+                      "type":  "n8n-nodes-base.stickyNote",
+                      "typeVersion":  1,
+                      "position":  [
+                                       -620,
+                                       -280
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "rule":  {
+                                                      "interval":  [
+                                                                       {
+                                                                           "field":  "cronExpression",
+                                                                           "expression":  "0 8 * * *"
+                                                                       }
+                                                                   ]
+                                                  }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000001",
+                      "name":  "Daily 08:00 Trigger",
+                      "type":  "n8n-nodes-base.scheduleTrigger",
+                      "typeVersion":  1.2,
+                      "position":  [
+                                       -1080,
+                                       0
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "url":  "https://news.ycombinator.com/rss",
+                                         "options":  {
+
+                                                     }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000002",
+                      "name":  "RSS - Hacker News",
+                      "type":  "n8n-nodes-base.rssFeedRead",
+                      "typeVersion":  1.1,
+                      "position":  [
+                                       -860,
+                                       -160
+                                   ],
+                      "onError":  "continueRegularOutput"
+                  },
+                  {
+                      "parameters":  {
+                                         "url":  "http://export.arxiv.org/rss/cs.AI",
+                                         "options":  {
+
+                                                     }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000003",
+                      "name":  "RSS - ArXiv AI",
+                      "type":  "n8n-nodes-base.rssFeedRead",
+                      "typeVersion":  1.1,
+                      "position":  [
+                                       -860,
+                                       0
+                                   ],
+                      "onError":  "continueRegularOutput"
+                  },
+                  {
+                      "parameters":  {
+                                         "url":  "https://techcrunch.com/category/artificial-intelligence/feed/",
+                                         "options":  {
+
+                                                     }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000004",
+                      "name":  "RSS - TechCrunch AI",
+                      "type":  "n8n-nodes-base.rssFeedRead",
+                      "typeVersion":  1.1,
+                      "position":  [
+                                       -860,
+                                       160
+                                   ],
+                      "onError":  "continueRegularOutput"
+                  },
+                  {
+                      "parameters":  {
+                                         "mode":  "append",
+                                         "numberInputs":  3,
+                                         "options":  {
+
+                                                     }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000005",
+                      "name":  "Merge All Feeds",
+                      "type":  "n8n-nodes-base.merge",
+                      "typeVersion":  3,
+                      "position":  [
+                                       -640,
+                                       0
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "mode":  "runOnceForAllItems",
+                                         "jsCode":  "// =============================================================\n// Data Cleaning \u0026 Aggregation\n// - Strip HTML, dedupe by title/URL, sort by recency\n// - Keep top 10: { title, url, source, snippet, published }\n// - Emit a compact JSON payload to minimize LLM tokens\n// =============================================================\nconst LIMIT = 10;\nconst SNIPPET_MAX = 280;\n\nfunction stripHtml(value) {\n  if (value === undefined || value === null) return \u0027\u0027;\n  return String(value)\n    .replace(/\u003cscript[\\s\\S]*?\u003c\\/script\u003e/gi, \u0027 \u0027)\n    .replace(/\u003cstyle[\\s\\S]*?\u003c\\/style\u003e/gi, \u0027 \u0027)\n    .replace(/\u003c[^\u003e]*\u003e/g, \u0027 \u0027)\n    .replace(/\u0026nbsp;/gi, \u0027 \u0027)\n    .replace(/\u0026amp;/gi, \u0027\u0026\u0027)\n    .replace(/\u0026lt;/gi, \u0027\u003c\u0027)\n    .replace(/\u0026gt;/gi, \u0027\u003e\u0027)\n    .replace(/\u0026quot;/gi, \u0027\"\u0027)\n    .replace(/\u0026#39;|\u0026apos;/gi, \"\u0027\")\n    .replace(/\u0026#\\d+;/g, \u0027 \u0027)\n    .replace(/\\s+/g, \u0027 \u0027)\n    .trim();\n}\n\nfunction truncate(text, max) {\n  const t = String(text || \u0027\u0027);\n  return t.length \u003e max ? t.slice(0, max - 1).trimEnd() + \u0027\\u2026\u0027 : t;\n}\n\nfunction hostOf(url) {\n  const m = String(url || \u0027\u0027).match(/^(?:https?:\\/\\/)?([^\\/?#:]+)/i);\n  if (!m) return \u0027unknown\u0027;\n  return m[1].replace(/^www\\./, \u0027\u0027);\n}\n\nfunction titleKey(title) {\n  return stripHtml(title)\n    .toLowerCase()\n    .replace(/[^a-z0-9]+/g, \u0027\u0027);\n}\n\nfunction urlKey(url) {\n  try {\n    const u = new URL(String(url));\n    return (u.hostname.replace(/^www\\./, \u0027\u0027) + u.pathname).replace(/\\/$/, \u0027\u0027).toLowerCase();\n  } catch (e) {\n    return String(url || \u0027\u0027).replace(/[?#].*$/, \u0027\u0027).replace(/\\/$/, \u0027\u0027).toLowerCase();\n  }\n}\n\nconst items = $input.all();\nconst seenTitles = new Set();\nconst seenUrls = new Set();\nconst articles = [];\nlet skipped = 0;\n\nfor (const item of items) {\n  const json = item.json || {};\n  // RSS Feed Read may nest fields under json.xml / json.meta in some versions\n  const source = json.xml || json;\n\n  const title = stripHtml(source.title || json.title || \u0027\u0027);\n  const url = String(\n    source.link || source.guid || json.link || json.guid || json.url || \u0027\u0027\n  ).trim();\n\n  if (!title || !url || !/^https?:\\/\\//i.test(url)) {\n    skipped += 1;\n    continue;\n  }\n\n  const tKey = titleKey(title);\n  const uKey = urlKey(url);\n  if (seenTitles.has(tKey) || seenUrls.has(uKey)) {\n    skipped += 1;\n    continue;\n  }\n  seenTitles.add(tKey);\n  seenUrls.add(uKey);\n\n  const rawSnippet =\n    source.contentSnippet ||\n    source.content ||\n    source.description ||\n    json.contentSnippet ||\n    json.content ||\n    json.description ||\n    \u0027\u0027;\n\n  const publishedRaw =\n    source.pubDate ||\n    source.isoDate ||\n    json.pubDate ||\n    json.isoDate ||\n    source[\u0027dc:date\u0027] ||\n    \u0027\u0027;\n\n  articles.push({\n    title,\n    url,\n    source: hostOf(url),\n    snippet: truncate(stripHtml(rawSnippet), SNIPPET_MAX) || \u0027No summary available.\u0027,\n    published: String(publishedRaw || \u0027\u0027),\n    _ts: Date.parse(publishedRaw) || 0,\n  });\n}\n\n// Most recent first; items without a parseable date keep merge order (stable sort)\narticles.sort((a, b) =\u003e b._ts - a._ts);\n\nconst top = articles.slice(0, LIMIT).map(({ _ts, ...rest }) =\u003e rest);\n\nif (top.length === 0) {\n  throw new Error(\u0027No valid RSS articles after cleaning/deduplication. Check feed URLs and connectivity.\u0027);\n}\n\n// Compact JSON string -\u003e predictable, low token usage for the LLM\nconst payload = JSON.stringify(top);\n\nreturn [\n  {\n    json: {\n      articles: top,\n      payload,\n      articleCount: top.length,\n      skippedDuplicates: skipped,\n      generatedAt: new Date().toISOString(),\n    },\n  },\n];"
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000006",
+                      "name":  "Clean \u0026 Aggregate Articles",
+                      "type":  "n8n-nodes-base.code",
+                      "typeVersion":  2,
+                      "position":  [
+                                       -420,
+                                       0
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "model":  {
+                                                       "__rl":  true,
+                                                       "mode":  "list",
+                                                       "value":  "gemini-3.5-flash-lite",
+                                                       "cachedResultName":  "gemini-3.5-flash-lite"
+                                                   },
+                                         "options":  {
+
+                                                     },
+                                         "modelName":  "models/gemini-3.5-flash-lite"
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000007",
+                      "name":  "Google Gemini Chat Model",
+                      "type":  "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+                      "typeVersion":  1,
+                      "position":  [
+                                       -220,
+                                       240
+                                   ],
+                      "credentials":  {
+                                          "googlePalmApi":  {
+                                                                "id":  "REPLACE_WITH_GEMINI_CREDENTIAL_ID",
+                                                                "name":  "Google Gemini (free)"
+                                                            }
+                                      }
+                  },
+                  {
+                      "parameters":  {
+                                         "promptType":  "define",
+                                         "text":  "=Raw article payload (JSON array of { title, url, source, snippet, published }):\n\n{{ $json.payload }}",
+                                         "options":  {
+
+                                                     },
+                                         "prompt":  "=Raw article payload (JSON array of { title, url, source, snippet, published }):\n\n{{ $json.payload }}",
+                                         "messages":  {
+                                                          "messageValues":  [
+                                                                                {
+                                                                                    "type":  "SystemMessagePromptTemplate",
+                                                                                    "message":  "You are an Executive Technology Intelligence Analyst.\nReview the provided raw list of tech headlines and articles.\nSelect the top 3 to 4 most impactful developments relevant to software engineers, AI developers, and tech managers.\nFor each selected item:\n1. Create a clear, punchy headline.\n2. Write a 2-sentence breakdown explaining the development and its operational/industry significance.\n3. Retain the exact source link.\nAlso provide a brief 2-sentence overarching trend summary at the top.\n\nRespond with STRICT JSON only (no markdown fences, no commentary) using this exact schema:\n{\n  \"trend_summary\": \"2-sentence overarching trend summary\",\n  \"items\": [\n    {\n      \"headline\": \"Punchy headline\",\n      \"breakdown\": \"Exactly 2 sentences of operational/industry significance.\",\n      \"url\": \"Exact source URL copied verbatim from input\",\n      \"source\": \"Domain name\"\n    }\n  ]\n}\nRules: Use only facts from the provided payload. Never invent URLs. Keep total response under 900 words."
+                                                                                }
+                                                                            ]
+                                                      }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000008",
+                      "name":  "LLM Synthesis - Gemini",
+                      "type":  "@n8n/n8n-nodes-langchain.chainLlm",
+                      "typeVersion":  1.3,
+                      "position":  [
+                                       -200,
+                                       0
+                                   ],
+                      "settings":  {
+                                       "retryOnFail":  true,
+                                       "maxTries":  6,
+                                       "waitBetweenTries":  8000
+                                   }
+                  },
+                  {
+                      "parameters":  {
+                                         "mode":  "runOnceForAllItems",
+                                         "jsCode":  "// =============================================================\n// Parse LLM output -\u003e normalize { trend_summary, items[] }\n// =============================================================\nfunction extractJson(raw) {\n  let text = String(raw || \u0027\u0027).trim();\n  if (!text) return null;\n\n  const fence = text.match(/```(?:json)?\\s*([\\s\\S]*?)```/i);\n  if (fence) text = fence[1].trim();\n\n  try {\n    return JSON.parse(text);\n  } catch (e) {\n    /* fall through to brace extraction */\n  }\n\n  const objectStart = text.indexOf(\u0027{\u0027);\n  const arrayStart = text.indexOf(\u0027[\u0027);\n  let start = -1;\n  if (objectStart === -1) start = arrayStart;\n  else if (arrayStart === -1) start = objectStart;\n  else start = Math.min(objectStart, arrayStart);\n  if (start === -1) return null;\n\n  const open = text[start];\n  const close = open === \u0027{\u0027 ? \u0027}\u0027 : \u0027]\u0027;\n  const end = text.lastIndexOf(close);\n  if (end \u003c= start) return null;\n\n  try {\n    return JSON.parse(text.slice(start, end + 1));\n  } catch (e) {\n    return null;\n  }\n}\n\nfunction cleanText(v) {\n  return String(v || \u0027\u0027)\n    .replace(/\\s+/g, \u0027 \u0027)\n    .trim();\n}\n\nfunction validUrl(v) {\n  const u = cleanText(v);\n  return /^https?:\\/\\//i.test(u) ? u : \u0027\u0027;\n}\n\nconst inputItem = $input.first();\nconst raw =\n  inputItem.json.output ??\n  inputItem.json.text ??\n  inputItem.json.response ??\n  inputItem.json.content ??\n  inputItem.json?.data?.text ??\n  \u0027\u0027;\n\nconst parsed = extractJson(raw);\n// Fall back to cleaned RSS data if the LLM response cannot be parsed as JSON\nlet prior = {};\ntry {\n  prior = $(\u0027Clean \u0026 Aggregate Articles\u0027).first().json || {};\n} catch (e) {\n  prior = {};\n}\n\nlet trendSummary = \u0027\u0027;\nlet items = [];\n\nif (parsed \u0026\u0026 typeof parsed === \u0027object\u0027) {\n  trendSummary = cleanText(parsed.trend_summary || parsed.trendSummary || parsed.summary || \u0027\u0027);\n  const rawItems = Array.isArray(parsed.items)\n    ? parsed.items\n    : Array.isArray(parsed.articles)\n      ? parsed.articles\n      : [];\n\n  items = rawItems\n    .map((it) =\u003e ({\n      headline: cleanText(it.headline || it.title || \u0027\u0027),\n      breakdown: cleanText(it.breakdown || it.summary || it.description || \u0027\u0027),\n      url: validUrl(it.url || it.link || \u0027\u0027),\n      source: cleanText(it.source || \u0027\u0027),\n    }))\n    .filter((it) =\u003e it.headline \u0026\u0026 it.breakdown \u0026\u0026 it.url)\n    .slice(0, 4);\n}\n\n// Fallback: keep the digest useful even if the model returned prose/Markdown\nif (items.length === 0) {\n  const fallbackText = cleanText(raw).slice(0, 4000);\n  trendSummary = fallbackText\n    ? \u0027Executive briefing generated by Gemini. Full analysis below.\u0027\n    : \u0027\u0027;\n  const fallbackArticles = prior.articles || [];\n  items = fallbackArticles.slice(0, 4).map((a) =\u003e ({\n    headline: a.title,\n    breakdown: a.snippet,\n    url: a.url,\n    source: a.source,\n  }));\n}\n\nif (!trendSummary \u0026\u0026 items.length === 0) {\n  throw new Error(\u0027LLM returned no usable content. Raw output: \u0027 + String(raw).slice(0, 500));\n}\n\nreturn [\n  {\n    json: {\n      trendSummary:\n        trendSummary ||\n        \u0027Today\\\u0027s briefing covers the most relevant developments across engineering and AI circles.\u0027,\n      items,\n      articleCount: prior.articleCount || 0,\n      generatedAt: new Date().toISOString(),\n      rawResponse: String(raw || \u0027\u0027).slice(0, 2000),\n    },\n  },\n];"
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000009",
+                      "name":  "Parse AI Output",
+                      "type":  "n8n-nodes-base.code",
+                      "typeVersion":  2,
+                      "position":  [
+                                       40,
+                                       0
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "mode":  "runOnceForAllItems",
+                                         "jsCode":  "// =============================================================\n// Responsive HTML newsletter templating\n// Palette: header #0d1b2a | bg #f8fafc | text #1e293b\n// Table-based layout for Outlook/Gmail/Mobile compatibility\n// =============================================================\nfunction esc(value) {\n  return String(value ?? \u0027\u0027)\n    .replace(/\u0026/g, \u0027\u0026amp;\u0027)\n    .replace(/\u003c/g, \u0027\u0026lt;\u0027)\n    .replace(/\u003e/g, \u0027\u0026gt;\u0027)\n    .replace(/\"/g, \u0027\u0026quot;\u0027)\n    .replace(/\u0027/g, \u0027\u0026#39;\u0027);\n}\n\nfunction safeUrl(value) {\n  const u = String(value || \u0027\u0027).trim();\n  return /^https?:\\/\\//i.test(u) ? esc(u) : \u0027#\u0027;\n}\n\nconst data = $input.first().json;\nconst trendSummary = data.trendSummary || \u0027No trend summary available.\u0027;\nconst items = Array.isArray(data.items) ? data.items : [];\n\nconst displayDate = $now.setLocale(\u0027en-GB\u0027).toFormat(\u0027dd LLL yyyy\u0027);\nconst fullDate = $now.setLocale(\u0027en-GB\u0027).toFormat(\u0027cccc, dd LLLL yyyy\u0027);\nconst year = $now.toFormat(\u0027yyyy\u0027);\n\nconst storyCards = items\n  .map((item, index) =\u003e {\n    const n = String(index + 1).padStart(2, \u00270\u0027);\n    const sourceLabel = item.source || safeHost(item.url);\n    return `\n      \u003ctr\u003e\n        \u003ctd style=\"padding:0 0 16px 0;\"\u003e\n          \u003ctable role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;\"\u003e\n            \u003ctr\u003e\n              \u003ctd style=\"padding:20px 22px 8px 22px;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;color:#64748b;font-weight:700;font-family:Arial,Helvetica,sans-serif;\"\u003e\n                ${n} \u0026nbsp;\u0026middot;\u0026nbsp; ${esc(sourceLabel)}\n              \u003c/td\u003e\n            \u003c/tr\u003e\n            \u003ctr\u003e\n              \u003ctd style=\"padding:0 22px 10px 22px;font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:1.35;font-weight:700;color:#0f172a;\"\u003e\n                \u003ca href=\"${safeUrl(item.url)}\" target=\"_blank\" style=\"color:#0f172a;text-decoration:none;\"\u003e\n                  ${esc(item.headline)}\n                \u003c/a\u003e\n              \u003c/td\u003e\n            \u003c/tr\u003e\n            \u003ctr\u003e\n              \u003ctd style=\"padding:0 22px 16px 22px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#334155;\"\u003e\n                ${esc(item.breakdown)}\n              \u003c/td\u003e\n            \u003c/tr\u003e\n            \u003ctr\u003e\n              \u003ctd style=\"padding:0 22px 20px 22px;\"\u003e\n                \u003ctable role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\"\u003e\n                  \u003ctr\u003e\n                    \u003ctd style=\"border-radius:6px;background:#0d1b2a;\"\u003e\n                      \u003ca href=\"${safeUrl(item.url)}\" target=\"_blank\"\n                         style=\"display:inline-block;padding:10px 18px;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:700;color:#ffffff;text-decoration:none;border-radius:6px;\"\u003e\n                        Read full article \u0026rarr;\n                      \u003c/a\u003e\n                    \u003c/td\u003e\n                  \u003c/tr\u003e\n                \u003c/table\u003e\n              \u003c/td\u003e\n            \u003c/tr\u003e\n          \u003c/table\u003e\n        \u003c/td\u003e\n      \u003c/tr\u003e`;\n  })\n  .join(\u0027\u0027);\n\nfunction safeHost(url) {\n  const m = String(url || \u0027\u0027).match(/^(?:https?:\\/\\/)?([^\\/?#:]+)/i);\n  if (!m) return \u0027Source\u0027;\n  return m[1].replace(/^www\\./, \u0027\u0027);\n}\n\nconst storiesSection =\n  items.length \u003e 0\n    ? storyCards\n    : `\u003ctr\u003e\u003ctd style=\"padding:24px;font-family:Arial,Helvetica,sans-serif;color:#475569;\"\u003eNo stories were generated for this run.\u003c/td\u003e\u003c/tr\u003e`;\n\nconst html = `\u003c!DOCTYPE html\u003e\n\u003chtml lang=\"en\"\u003e\n\u003chead\u003e\n  \u003cmeta charset=\"utf-8\" /\u003e\n  \u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\" /\u003e\n  \u003cmeta name=\"x-apple-disable-message-reformatting\" /\u003e\n  \u003ctitle\u003eDaily Tech Pulse\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody style=\"margin:0;padding:0;background:#f8fafc;\"\u003e\n  \u003ctable role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f8fafc;\"\u003e\n    \u003ctr\u003e\n      \u003ctd align=\"center\" style=\"padding:24px 12px;\"\u003e\n        \u003ctable role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;background:#f8fafc;border-radius:10px;overflow:hidden;\"\u003e\n\n          \u003c!-- Header --\u003e\n          \u003ctr\u003e\n            \u003ctd style=\"background:#0d1b2a;padding:32px 32px 28px 32px;\"\u003e\n              \u003cp style=\"margin:0 0 8px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:#94a3b8;font-weight:700;\"\u003e\n                Executive Intelligence Briefing\n              \u003c/p\u003e\n              \u003ch1 style=\"margin:0;font-family:Arial,Helvetica,sans-serif;font-size:28px;line-height:1.25;font-weight:700;color:#ffffff;\"\u003e\n                Daily Tech Pulse\n              \u003c/h1\u003e\n              \u003cp style=\"margin:10px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#cbd5e1;\"\u003e\n                AI \u0026amp; Tech Briefing \u0026middot; ${esc(displayDate)}\n              \u003c/p\u003e\n            \u003c/td\u003e\n          \u003c/tr\u003e\n\n          \u003c!-- Trend summary --\u003e\n          \u003ctr\u003e\n            \u003ctd style=\"padding:28px 28px 8px 28px;\"\u003e\n              \u003ctable role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border:1px solid #e2e8f0;border-left:4px solid #0b3c5d;border-radius:8px;\"\u003e\n                \u003ctr\u003e\n                  \u003ctd style=\"padding:20px 22px;\"\u003e\n                    \u003cp style=\"margin:0 0 8px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#0b3c5d;font-weight:700;\"\u003e\n                      Today\u0026#8217;s Trend Line\n                    \u003c/p\u003e\n                    \u003cp style=\"margin:0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.65;color:#1e293b;\"\u003e\n                      ${esc(trendSummary)}\n                    \u003c/p\u003e\n                  \u003c/td\u003e\n                \u003c/tr\u003e\n              \u003c/table\u003e\n            \u003c/td\u003e\n          \u003c/tr\u003e\n\n          \u003c!-- Divider label --\u003e\n          \u003ctr\u003e\n            \u003ctd style=\"padding:24px 28px 4px 28px;\"\u003e\n              \u003cp style=\"margin:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#64748b;font-weight:700;\"\u003e\n                Top Developments (${items.length})\n              \u003c/p\u003e\n            \u003c/td\u003e\n          \u003c/tr\u003e\n\n          \u003c!-- Story cards --\u003e\n          ${storiesSection}\n\n          \u003c!-- Footer --\u003e\n          \u003ctr\u003e\n            \u003ctd style=\"padding:12px 8px 8px 8px;\"\u003e\n              \u003ctable role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#0d1b2a;border-radius:8px;\"\u003e\n                \u003ctr\u003e\n                  \u003ctd style=\"padding:22px 24px;font-family:Arial,Helvetica,sans-serif;\"\u003e\n                    \u003cp style=\"margin:0 0 6px 0;font-size:13px;color:#e2e8f0;font-weight:700;\"\u003e\n                      Daily Tech Pulse\n                    \u003c/p\u003e\n                    \u003cp style=\"margin:0;font-size:12px;line-height:1.6;color:#94a3b8;\"\u003e\n                      Sources: Hacker News \u0026middot; ArXiv cs.AI \u0026middot; TechCrunch AI. Curated by n8n + Google Gemini (free tier).\u003cbr /\u003e\n                      You receive this because you configured the automated digest workflow.\n                    \u003c/p\u003e\n                    \u003cp style=\"margin:12px 0 0 0;font-size:11px;color:#64748b;\"\u003e\n                      \u0026copy; ${esc(year)} \u0026middot; Automated Executive Briefing \u0026middot; ${esc(fullDate)}\n                    \u003c/p\u003e\n                  \u003c/td\u003e\n                \u003c/tr\u003e\n              \u003c/table\u003e\n            \u003c/td\u003e\n          \u003c/tr\u003e\n\n        \u003c/table\u003e\n      \u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/table\u003e\n\u003c/body\u003e\n\u003c/html\u003e`;\n\nreturn [\n  {\n    json: {\n      html,\n      subject: `Daily Tech Pulse | Executive AI \u0026 Tech Briefing - ${$now.toFormat(\u0027dd LLL yyyy\u0027)}`,\n      trendSummary,\n      items,\n      generatedAt: data.generatedAt,\n    },\n  },\n];"
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000010",
+                      "name":  "Build HTML Email",
+                      "type":  "n8n-nodes-base.code",
+                      "typeVersion":  2,
+                      "position":  [
+                                       260,
+                                       0
+                                   ]
+                  },
+                  {
+                      "parameters":  {
+                                         "fromEmail":  "hfz.aiman0307@gmail.com",
+                                         "toEmail":  "hfz.aiman0307@gmail.com",
+                                         "subject":  "=Daily Tech Pulse | Executive AI \u0026 Tech Briefing - {{ $now.toFormat(\u0027dd LLL yyyy\u0027) }}",
+                                         "emailFormat":  "html",
+                                         "html":  "={{ $json.html }}",
+                                         "options":  {
+
+                                                     }
+                                     },
+                      "id":  "a1000000-0000-4000-8000-000000000011",
+                      "name":  "Send Digest Email",
+                      "type":  "n8n-nodes-base.emailSend",
+                      "typeVersion":  2.1,
+                      "position":  [
+                                       500,
+                                       0
+                                   ],
+                      "webhookId":  "af7f2c16-4b85-4549-b690-ac3d1c72a697",
+                      "credentials":  {
+                                          "smtp":  {
+                                                       "id":  "REPLACE_WITH_SMTP_CREDENTIAL_ID",
+                                                       "name":  "SMTP Gmail"
+                                                   }
+                                      }
+                  }
+              ],
+    "connections":  {
+                        "Daily 08:00 Trigger":  {
+                                                    "main":  [
+                                                                 [
+                                                                     {
+                                                                         "node":  "RSS - Hacker News",
+                                                                         "type":  "main",
+                                                                         "index":  0
+                                                                     },
+                                                                     {
+                                                                         "node":  "RSS - ArXiv AI",
+                                                                         "type":  "main",
+                                                                         "index":  0
+                                                                     },
+                                                                     {
+                                                                         "node":  "RSS - TechCrunch AI",
+                                                                         "type":  "main",
+                                                                         "index":  0
+                                                                     }
+                                                                 ]
+                                                             ]
+                                                },
+                        "RSS - Hacker News":  {
+                                                  "main":  [
+                                                               [
+                                                                   {
+                                                                       "node":  "Merge All Feeds",
+                                                                       "type":  "main",
+                                                                       "index":  0
+                                                                   }
+                                                               ]
+                                                           ]
+                                              },
+                        "RSS - ArXiv AI":  {
+                                               "main":  [
+                                                            [
+                                                                {
+                                                                    "node":  "Merge All Feeds",
+                                                                    "type":  "main",
+                                                                    "index":  1
+                                                                }
+                                                            ]
+                                                        ]
+                                           },
+                        "RSS - TechCrunch AI":  {
+                                                    "main":  [
+                                                                 [
+                                                                     {
+                                                                         "node":  "Merge All Feeds",
+                                                                         "type":  "main",
+                                                                         "index":  2
+                                                                     }
+                                                                 ]
+                                                             ]
+                                                },
+                        "Merge All Feeds":  {
+                                                "main":  [
+                                                             [
+                                                                 {
+                                                                     "node":  "Clean \u0026 Aggregate Articles",
+                                                                     "type":  "main",
+                                                                     "index":  0
+                                                                 }
+                                                             ]
+                                                         ]
+                                            },
+                        "Clean \u0026 Aggregate Articles":  {
+                                                                "main":  [
+                                                                             [
+                                                                                 {
+                                                                                     "node":  "LLM Synthesis - Gemini",
+                                                                                     "type":  "main",
+                                                                                     "index":  0
+                                                                                 }
+                                                                             ]
+                                                                         ]
+                                                            },
+                        "Google Gemini Chat Model":  {
+                                                         "ai_languageModel":  [
+                                                                                  [
+                                                                                      {
+                                                                                          "node":  "LLM Synthesis - Gemini",
+                                                                                          "type":  "ai_languageModel",
+                                                                                          "index":  0
+                                                                                      }
+                                                                                  ]
+                                                                              ]
+                                                     },
+                        "LLM Synthesis - Gemini":  {
+                                                       "main":  [
+                                                                    [
+                                                                        {
+                                                                            "node":  "Parse AI Output",
+                                                                            "type":  "main",
+                                                                            "index":  0
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                   },
+                        "Parse AI Output":  {
+                                                "main":  [
+                                                             [
+                                                                 {
+                                                                     "node":  "Build HTML Email",
+                                                                     "type":  "main",
+                                                                     "index":  0
+                                                                 }
+                                                             ]
+                                                         ]
+                                            },
+                        "Build HTML Email":  {
+                                                 "main":  [
+                                                              [
+                                                                  {
+                                                                      "node":  "Send Digest Email",
+                                                                      "type":  "main",
+                                                                      "index":  0
+                                                                  }
+                                                              ]
+                                                          ]
+                                             }
+                    },
+    "settings":  {
+                     "executionOrder":  "v1",
+                     "timezone":  "Asia/Kuala_Lumpur",
+                     "saveDataErrorExecution":  "all",
+                     "saveDataSuccessExecution":  "all",
+                     "errorWorkflow":  ""
+                 }
+}
